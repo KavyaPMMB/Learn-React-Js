@@ -1,0 +1,14 @@
+.black-bg {
+    background-color: black;
+    color: white;
+    height: 500px;
+    width: 100%;
+  }
+  
+  .white-bg {
+    background-color: white;
+    color: black;
+    height: 500px;
+    width: 100%;
+  }
+  

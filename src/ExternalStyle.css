@@ -1,0 +1,39 @@
+.header {
+    background-image: url("https://images.pexels.com/photos/4600168/pexels-photo-4600168.jpeg?auto=compress&cs=tinysrgb&w=600");
+    padding: 20px;
+  }
+ 
+ 
+  .header h1 {
+    font-size: 3em;
+    margin: 0;
+  }
+ 
+  .content {
+    padding: 20px;
+    background-image: url("https://media.istockphoto.com/id/148423909/photo/a-sunset-over-chinese-fishing-nets-by-a-canoe-in-cochin.jpg?s=612x612&w=0&k=20&c=76RtSZhX5iheTAyDuH6Uzl9JNWD5axbWlEWc2bXKChw=");
+  }
+ 
+  .content h2 {
+    margin-bottom: 10px;
+  }
+ 
+  .content p {
+    line-height: 1.5;
+  }
+ 
+  .content img {
+    display: block;
+    max-width: 100%;
+    margin: 20px auto;
+  }
+ 
+  .footer {
+    background-color: rgb(87, 218, 142);
+    padding: 20px;
+    text-align: center;
+  }
+ 
+  .footer p {
+    margin: 0;
+  }
